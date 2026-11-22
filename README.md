@@ -4,7 +4,7 @@ I'm rift and I love coding!
 
 - Language(s):
 
-[![cpp](https://skillicons.dev/icons?i=cpp&perline=3)](https://skillicons.dev)
+[![cpp](https://skillicons.dev/icons?i=cpp&perline=3)]
 
 - Learning reverse engineering, game hacking!
 
