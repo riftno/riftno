@@ -6,7 +6,7 @@ I'm rift and I love coding!
 
 [![cpp](https://skillicons.dev/icons?i=cpp&perline=3)](https://skillicons.dev)
 
-- Learning reverse engineering, game hacking
+- Learning reverse engineering, game hacking!
 
 # Socials
 
